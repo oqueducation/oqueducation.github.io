@@ -17,7 +17,7 @@ $mail->SMTPSecure = 'ssl';
 $mail->Port = 465; 
 
 $mail->setFrom('altyntouroff@mail.ru'); 
-$mail->addAddress('zhetpisbaevdidar@gmail.com');   
+$mail->addAddress('oqueducation@gmail.com');   
 $mail->isHTML(true);                                  
 
 $mail->Subject = 'Кто-то записался на интенсив';
